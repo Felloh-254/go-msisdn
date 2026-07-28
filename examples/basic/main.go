@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/yourusername/go-msisdn"
+	"github.com/Felloh-254/go-msisdn"
 )
 
 func main() {
