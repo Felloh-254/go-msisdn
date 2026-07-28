@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	msisdnerrors "github.com/yourusername/go-msisdn/errors"
+	msisdnerrors "github.com/Felloh-254/go-msisdn/errors"
 )
 
 // Parse parses raw into a Phone.

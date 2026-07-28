@@ -3,7 +3,7 @@ package msisdn
 import (
 	"fmt"
 
-	msisdnerrors "github.com/yourusername/go-msisdn/errors"
+	msisdnerrors "github.com/Felloh-254/go-msisdn/errors"
 )
 
 // ValidationResult is the structured outcome of Validate: it tells you

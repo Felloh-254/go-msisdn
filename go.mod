@@ -1,3 +1,3 @@
-module github.com/yourusername/go-msisdn
+module github.com/Felloh-254/go-msisdn
 
 go 1.21

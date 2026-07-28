@@ -3,7 +3,7 @@ package msisdn
 import (
 	"fmt"
 
-	msisdnerrors "github.com/yourusername/go-msisdn/errors"
+	msisdnerrors "github.com/Felloh-254/go-msisdn/errors"
 )
 
 // Example returns a realistic sample E.164 phone number for the given

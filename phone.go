@@ -7,8 +7,8 @@ package msisdn
 import (
 	"strconv"
 
-	msisdnerrors "github.com/yourusername/go-msisdn/errors"
-	"github.com/yourusername/go-msisdn/operators"
+	msisdnerrors "github.com/Felloh-254/go-msisdn/errors"
+	"github.com/Felloh-254/go-msisdn/operators"
 )
 
 // Phone represents a parsed phone number together with everything
